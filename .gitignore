@@ -15,8 +15,6 @@ data/*.csv
 data/*.xlsx
 data/*.json
 
-# Outputs (optional: comment out if you want to push figures)
-outputs/
 
 # OS
 .DS_Store
